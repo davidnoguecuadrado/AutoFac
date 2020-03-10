@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Autofac;
+
 
 namespace AutoFac
 {
@@ -10,6 +7,13 @@ namespace AutoFac
     {
         static void Main(string[] args)
         {
+            var containre = CointainerConfig.Configure();
+
+            using (var scope = containre.BeginLifetimeScope()) 
+            {
+                var app = scope.Resolve<IAplication>();
+                app.Run();
+            }
         }
     }
 }

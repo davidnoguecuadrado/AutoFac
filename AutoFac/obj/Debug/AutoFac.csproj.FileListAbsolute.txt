@@ -1,0 +1,15 @@
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\AutoFac.exe.config
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\AutoFac.exe
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\AutoFac.pdb
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\Autofac.dll
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\Autofac.xml
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\34699\source\repos\AutoFac\AutoFac\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\34699\source\repos\AutoFac\AutoFac\obj\Debug\AutoFac.csprojAssemblyReference.cache
+C:\Users\34699\source\repos\AutoFac\AutoFac\obj\Debug\AutoFac.csproj.CopyComplete
+C:\Users\34699\source\repos\AutoFac\AutoFac\obj\Debug\AutoFac.exe
+C:\Users\34699\source\repos\AutoFac\AutoFac\obj\Debug\AutoFac.pdb
